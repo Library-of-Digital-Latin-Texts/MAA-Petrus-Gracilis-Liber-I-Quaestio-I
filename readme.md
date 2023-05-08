@@ -12,3 +12,11 @@ This edition is published under the authority of [The University of Oklahoma](ht
 [![badge](https://dll-review-registry.digitallatin.org/maa-badge.svg)](https://dll-review-registry.digitallatin.org/reviews/c545780f-a457-48a0-9cdd-ad12318dd1b2.html)
 
 For more details on the peer review registry, see <https://dll-review-registry.digitallatin.org/>.
+
+---
+This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![DOI](https://zenodo.org/badge/223266679.svg)](https://zenodo.org/badge/latestdoi/223266679)
+
