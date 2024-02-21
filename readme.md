@@ -2,7 +2,8 @@
 
 The files in this repository contain the data for a critical edition of the first question in book one of Peter Gracilis' commentary on the *Sentences*, as edited by Jeffrey C. Witt and John T. Slotemaker. 
 
-The Scholastic Commentaries and Texts Archive provides an environment for reading and interacting with the data at <http://scta.lombardpress.org/text/pg-b1q1>.
+The Scholastic Commentaries and Texts Archive provides an environment for reading and interacting with 
+the data at <https://scta.lombardpress.org/text?resourceid=http://scta.info/resource/pg-b1q1>.
 
 ## Publication Details
 The files are encoded according to the [schema](http://lombardpress.org/schema/docs/index) maintained by the [LombardPress](http://lombardpress.org/), a partner project of the Digital Latin Library.
